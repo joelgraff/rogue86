@@ -12,3 +12,7 @@ Buidling and running the editor requires the following steps:
 3.  Repeat step #2 until the program runs (9x or 10x)
 
 The program is split across several files to manage code editing in the BASICA editor.  Thus, in order to run the program as a whole, it must be first "built" by merging all of the files into a single file.  Once complete, the resulting file can be saved for future use (e.g., EDITOR.BAS).
+
+## Status
+
+Currently, only the editor exists.  A key map describing all of the key functions will be added soon.  The editor is fully functional for creating basic color text screens using most of the ASCII character set.
