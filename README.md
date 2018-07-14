@@ -3,7 +3,7 @@ A rogue-like game made in BASICA on an 8086 IBM PC
 
 ## Installation
 
-The code is build entirely in BASICA on an 8086 IBM PC running MS-DOS 3.30.  The source utilizes POKE and PEEK commands to driectly write to memory.  As a result, emulation (like PC-BASIC) may not / will not work.  DOSBOX and GW-BASIC may work - no testing has been performed yet.
+The code is build entirely in BASICA on an 8086 IBM PC running MS-DOS 3.30.  The source utilizes POKE and PEEK commands to directly write to memory.  As a result, emulation (like PC-BASIC) may not / will not work.  DOSBOX and GW-BASIC may work - no testing has been performed yet.
 
 Buidling and running the editor requires the following steps:
 
