@@ -1,5 +1,5 @@
 # rogue86
-A rogue-like game made in BASICA on an 8086 IBM PC
+A rogue-like game made in BASICA on an 8086 IBM PS/2 Model 30 from 1987.
 
 ## Installation
 
